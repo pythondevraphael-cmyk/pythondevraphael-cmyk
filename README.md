@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Raphael
 
-<!--
-**pythondevraphael-cmyk/pythondevraphael-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Python**, focado em **automação, bots e IA generativa**.  
+Atualmente estou construindo projetos práticos para aprender e evoluir todos os dias.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Python
+- Git & GitHub
+- Automação de tarefas
+- Bots (Telegram / APIs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Objetivo
+Conseguir minha primeira oportunidade na área de tecnologia e automação.
