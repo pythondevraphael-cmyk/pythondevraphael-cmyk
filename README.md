@@ -10,4 +10,5 @@ Atualmente estou construindo projetos práticos para aprender e evoluir todos os
 - Bots (Telegram / APIs)
 
 ## 📌 Objetivo
-Conseguir minha primeira oportunidade na área de tecnologia e automação.
+Desenvolver soluções através de automações em Python integradas à IA, com foco em resolver problemas do dia a dia dos usuários, 
+eliminando tarefas repetitivas e aumentando a eficiência e produtividade.
