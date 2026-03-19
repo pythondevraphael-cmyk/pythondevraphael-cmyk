@@ -1,5 +1,5 @@
 <div align="right">
-  <strong>English version →</strong> <a href="README.en.md">Switch to English</a>
+  <strong>Versão em Português →</strong> <a href="README.md">Mudar para Português</a>
 </div>
 
 <div align="center">
@@ -9,35 +9,35 @@
 <h1 align="center">Raphael Mendes</h1>
 
 <p align="center">
-  <a href="https://portfolio-modular-rs4-machine.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://portfolio-modular-rs4-machine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/raphaelmendes-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rmendes.dev@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="center">Engenheiro de IA & Founder · Rs4Machine</h3>
+<h3 align="center">AI Engineer & Founder · Rs4Machine</h3>
 
 <p align="center">
-  Construo sistemas de IA aplicada confiáveis e escaláveis — arquiteturas híbridas que combinam<br>
-  <strong>LLMs + lógica determinística</strong> para eliminar alucinações em cenários reais.<br>
-  Foco em baixa latência, contexto persistente e impacto mensurável.
+  I build reliable, scalable applied AI systems — hybrid architectures combining<br>
+  <strong>LLMs + deterministic logic</strong> to eliminate hallucinations in real-world scenarios.<br>
+  Focus on low latency, persistent context, and measurable impact.
 </p>
 
 ---
 
 ## ⚡ Rs4Machine Lab
 
-> Laboratório de sistemas autônomos. Onde experimentos viram código de produção.
+> Autonomous systems laboratory. Where experiments become production code.
 
-| # | Projeto | Descrição | Stack | Demo |
-|---|---------|-----------|-------|------|
-| 01 | **[SofiaVoice](https://github.com/raphaelmendes-dev/ai-voice-assistant-groq)** | Assistente de voz com latência < 2s · STT → LLM → TTS | Groq · Whisper · FastAPI · Next.js | [🚀 Live](https://ai-voice-assistant-groq.vercel.app/sofia-voice) |
-| 02 | **[FraudEye](https://github.com/raphaelmendes-dev/fraudeye)** | Detecção de fraude em NF-e com visão computacional + regras determinísticas | FastAPI · CV · Next.js | [🚀 Live](https://fraudeye-frontend.vercel.app/fraud-eye) |
-| 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Tradutor de artigos técnicos com chunking inteligente e preservação de terminologia | FastAPI · pypdf · Next.js | [🚀 Live](https://technical-article-translator.vercel.app/translatia) |
-| 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Dashboard financeiro com Gemini AI + dados reais de mercado | Gemini · yfinance · FastAPI · Next.js | [🚀 Live](https://finai-companion.vercel.app/finai) |
+| # | Project | Description | Stack | Demo |
+|---|---------|-------------|-------|------|
+| 01 | **[SofiaVoice](https://github.com/raphaelmendes-dev/ai-voice-assistant-groq)** | Voice assistant with < 2s latency · STT → LLM → TTS | Groq · Whisper · FastAPI · Next.js | [🚀 Live](https://ai-voice-assistant-groq.vercel.app/sofia-voice) |
+| 02 | **[FraudEye](https://github.com/raphaelmendes-dev/fraudeye)** | NF-e fraud detection with computer vision + deterministic rules | FastAPI · CV · Next.js | [🚀 Live](https://fraudeye-frontend.vercel.app/fraud-eye) |
+| 03 | **[Translatia](https://github.com/raphaelmendes-dev/Technical-Article-Translator)** | Technical article translator with smart chunking and terminology preservation | FastAPI · pypdf · Next.js | [🚀 Live](https://technical-article-translator.vercel.app/translatia) |
+| 04 | **[FinAI](https://github.com/raphaelmendes-dev/FinAI-Assistente-Financeiro)** | Financial dashboard with Gemini AI + real market data | Gemini · yfinance · FastAPI · Next.js | [🚀 Live](https://finai-companion.vercel.app/finai) |
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Core Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -53,16 +53,16 @@
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
-Aberto a freelas, parcerias técnicas, oportunidades e conversas sobre a Rs4Machine.
+Open to freelance projects, technical partnerships, full-time opportunities, and conversations about Rs4Machine.
 
 <p align="center">
   📩 <a href="mailto:rmendes.dev@outlook.com">rmendes.dev@outlook.com</a> &nbsp;·&nbsp;
   🔗 <a href="https://www.linkedin.com/in/raphaelmendes-dev/">LinkedIn</a> &nbsp;·&nbsp;
-  🌐 <a href="https://portfolio-modular-rs4-machine.vercel.app/">Portfólio</a>
+  🌐 <a href="https://portfolio-modular-rs4-machine.vercel.app/">Portfolio</a>
 </p>
 
 <p align="center">
-  <em>Raphael Mendes · Rs4Machine · Março 2026</em>
+  <em>Raphael Mendes · Rs4Machine · March 2026</em>
 </p>
